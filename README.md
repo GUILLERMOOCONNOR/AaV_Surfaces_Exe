@@ -28,6 +28,9 @@ Pasantia en la Unita di Ricerca Scientifica de la Agenzia Spaziale Italiana con 
 Desarrollos del grupo de investigación del Area de Sensores Remotos de la Universidad de Rosario
 
 
+Tesis de "Metodología para ajuste y validación de DEMs  InSAR en áreas urbanas con datos GNSS”
+Link: https://ig.conae.unc.edu.ar/wp-content/uploads/sites/68/2020/11/Guille-OConnor-Tesis_compressed.pdf
+
 Contacto:
 Correo: jorgeguillermooconnor@gmail.com
 Telefono: 280 482 4795
